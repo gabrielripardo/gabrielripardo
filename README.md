@@ -20,5 +20,12 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">    
    </div>
 </div>
-  
-![Snake animation](https://github.com/gabrielripardo/gabrielripardo/blob/output/github-contribution-grid-snake.svg)
+
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Contribuições</h1>  
+   </div>
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielripardo&bg_color=191a29&color=878ff7&line=51a6f5&point=cac8d5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
