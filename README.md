@@ -16,10 +16,3 @@
    </div>
 </div>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Contribuições</h1>  
-   </div>
-</div>
-
